@@ -1,0 +1,11 @@
+class server{
+  /////////////////////////////////////////////////////
+  //log main
+  //server deafult ip:675.2434.0.0
+  //port:6054
+  //topic:arena attacking
+  //////////////////////////////////////////////////////
+  var ip:Number = 675.2324.0.0
+  var port:Number = 6054
+  
+  connect
